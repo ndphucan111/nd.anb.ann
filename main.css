@@ -2,6 +2,7 @@ body{
     height:auto;
     margin: 0px;
     background-color: #EA906C;
+    width:100%;
 }
 .clearfix{
     clear: both;
