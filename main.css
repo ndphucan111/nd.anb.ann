@@ -11,6 +11,7 @@ ul li{
 }
 #warpper{
     background-color: #2B2A4C;
+    width: 100%;
 }
 #header{
     max-width: 100%;
